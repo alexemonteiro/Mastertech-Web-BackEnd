@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "ex6": "node moduless/exercicio6",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderick/mastertech-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anderick/mastertech-javascript/issues"
+  },
+  "homepage": "https://github.com/anderick/mastertech-javascript#readme",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}

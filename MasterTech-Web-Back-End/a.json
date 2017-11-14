@@ -1,0 +1,10 @@
+{
+  "nome": "Alberto",
+  "idade": 31,
+  "sexo": "M",
+  "skills": ["javascript", "git", "api"],
+  "empresa": {
+    "nome":"Mastertech",
+    "local": "Wework"
+  }
+}
